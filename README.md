@@ -48,5 +48,5 @@ Ensure you have the following installed:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/voting-system.git
-   cd voting-system
+   git clone https://github.com/Aviralotrip/Voting-app-backend-.git
+   cd Voting-app-backend
